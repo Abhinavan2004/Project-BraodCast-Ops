@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\",
+  "WorkspaceRootPath": "C:\\Users\\2503694\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2A700AB-DA35-C0CF-C1E2-A9F0DFEFB774}|BroadCast-Ops-Team-Project\\BroadCast-Ops-Team-Project.csproj|c:\\users\\2503605\\onedrive - cognizant\\documents\\project-braodcast-ops\\broadcast-ops-team-project\\jananeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A700AB-DA35-C0CF-C1E2-A9F0DFEFB774}|BroadCast-Ops-Team-Project\\BroadCast-Ops-Team-Project.csproj|solutionrelative:broadcast-ops-team-project\\jananeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2A700AB-DA35-C0CF-C1E2-A9F0DFEFB774}|BroadCast-Ops-Team-Project\\BroadCast-Ops-Team-Project.csproj|c:\\users\\2503605\\onedrive - cognizant\\documents\\project-braodcast-ops\\broadcast-ops-team-project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2A700AB-DA35-C0CF-C1E2-A9F0DFEFB774}|BroadCast-Ops-Team-Project\\BroadCast-Ops-Team-Project.csproj|c:\\users\\2503694\\onedrive - cognizant\\documents\\project-braodcast-ops\\broadcast-ops-team-project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2A700AB-DA35-C0CF-C1E2-A9F0DFEFB774}|BroadCast-Ops-Team-Project\\BroadCast-Ops-Team-Project.csproj|solutionrelative:broadcast-ops-team-project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,28 +18,15 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JananeClass.cs",
-              "DocumentMoniker": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\JananeClass.cs",
-              "RelativeDocumentMoniker": "BroadCast-Ops-Team-Project\\JananeClass.cs",
-              "ToolTip": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\JananeClass.cs",
-              "RelativeToolTip": "BroadCast-Ops-Team-Project\\JananeClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T05:37:22.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\2503694\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "BroadCast-Ops-Team-Project\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\2503694\\OneDrive - Cognizant\\Documents\\Project-BraodCast-Ops\\BroadCast-Ops-Team-Project\\WeatherForecast.cs",
               "RelativeToolTip": "BroadCast-Ops-Team-Project\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
